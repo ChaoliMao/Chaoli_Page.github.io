@@ -1,4 +1,4 @@
-## Welcome to Chaoli's Page
+## Welcome to Github Pages
 
 You can use the [editor on GitHub](https://github.com/ChaoliMao/Chaoli_Page.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
