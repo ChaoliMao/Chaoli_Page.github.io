@@ -1,7 +1,7 @@
 Chaoli Blog
 ========
 
-### [View Live Hux Blog &rarr;](https://huangxuan.me)  
+### [View Live Chaoli Blog &rarr;](https://huangxuan.me)  
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
